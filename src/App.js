@@ -17,7 +17,7 @@ class App extends Component {
 
 export default connect(
   state => ({
-    testState: 'stateTest Ok da'
+    testState: 'Ok'
   }),
   dispatch => ({
 
